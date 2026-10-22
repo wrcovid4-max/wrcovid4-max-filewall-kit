@@ -4,8 +4,8 @@ import androidx.annotation.StringRes
 import com.wrcovid.kit.R
 
 /**
- * Every language the app supports. To add a language: add one entry here and a values-xx folder
- * with its strings. The globe menu reads this list, so the new language appears automatically.
+ * Every language the apps support. GENERATED from languages.json by scripts/generate.py.
+ * Do not edit by hand: add a language to languages.json and run the script.
  */
 enum class AppLanguage(
     val tag: String,

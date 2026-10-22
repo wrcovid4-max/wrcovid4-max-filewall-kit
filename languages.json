@@ -1,0 +1,15 @@
+{
+  "languages": [
+    {"kotlin": "ENGLISH", "swift": "english", "android": "en", "ios": "en", "catalog": "en", "menu": "English (ENG)", "short": "ENG", "res": "language_name_en", "rtl": false},
+    {"kotlin": "ENGLISH_US", "swift": "englishUS", "android": "en-US", "ios": "en-US", "catalog": "en-US", "menu": "English US (ENG)", "short": "ENG", "res": "language_name_en_us", "rtl": false},
+    {"kotlin": "ENGLISH_NZ", "swift": "englishNZ", "android": "en-NZ", "ios": "en-NZ", "catalog": "en-NZ", "menu": "English NZ (ENG)", "short": "ENG", "res": "language_name_en_nz", "rtl": false},
+    {"kotlin": "URDU", "swift": "urdu", "android": "ur", "ios": "ur", "catalog": "ur", "menu": "Urdu (اردو)", "short": "اردو", "res": "language_name_ur", "rtl": true},
+    {"kotlin": "CHINESE", "swift": "chinese", "android": "zh", "ios": "zh", "catalog": "zh-Hans", "menu": "Chinese (中文)", "short": "中文", "res": "language_name_zh", "rtl": false},
+    {"kotlin": "ARABIC", "swift": "arabic", "android": "ar", "ios": "ar", "catalog": "ar", "menu": "Arabic (العربية)", "short": "العربية", "res": "language_name_ar", "rtl": true},
+    {"kotlin": "SPANISH", "swift": "spanish", "android": "es", "ios": "es", "catalog": "es", "menu": "Spanish (Español)", "short": "ESP", "res": "language_name_es", "rtl": false},
+    {"kotlin": "CHINESE_TRADITIONAL", "swift": "chineseTraditional", "android": "zh-TW", "ios": "zh-TW", "catalog": "zh-TW", "menu": "Chinese Traditional (繁體中文)", "short": "繁體", "res": "language_name_zh_tw", "rtl": false},
+    {"kotlin": "PERSIAN", "swift": "persian", "android": "fa", "ios": "fa", "catalog": "fa", "menu": "Persian (فارسی)", "short": "فارسی", "res": "language_name_fa", "rtl": true},
+    {"kotlin": "PUNJABI", "swift": "punjabi", "android": "pa", "ios": "pa", "catalog": "pa", "menu": "Punjabi (ਪੰਜਾਬੀ)", "short": "ਪੰਜਾਬੀ", "res": "language_name_pa", "rtl": false},
+    {"kotlin": "PUNJABI_PK", "swift": "punjabiShahmukhi", "android": "pa-Arab-PK", "ios": "pa-PK", "catalog": "pa-PK", "menu": "Punjabi Pakistan (پنجابی)", "short": "پنجابی", "res": "language_name_pa_pk", "rtl": true}
+  ]
+}
