@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_name_en">英文</string>
+    <string name="language_name_ur">乌尔都语</string>
+    <string name="language_name_zh">中文</string>
+    <string name="language_restart_title">重启以切换语言？</string>
+    <string name="action_restart">重启</string>
+    <string name="action_cancel">取消</string>
+</resources>

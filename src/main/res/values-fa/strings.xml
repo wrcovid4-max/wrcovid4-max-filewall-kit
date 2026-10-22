@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_name_en">انگلیسی</string>
+    <string name="language_name_en_us">انگلیسی (آمریکا)</string>
+    <string name="language_name_en_nz">انگلیسی (نیوزیلند)</string>
+    <string name="language_name_ur">اردو</string>
+    <string name="language_name_zh">چینی</string>
+    <string name="language_name_ar">عربی</string>
+    <string name="language_name_es">اسپانیایی</string>
+    <string name="language_name_zh_tw">چینی سنتی</string>
+    <string name="language_name_fa">فارسی</string>
+    <string name="language_restart_title">برای تغییر زبان راه‌اندازی مجدد شود؟</string>
+    <string name="action_restart">راه‌اندازی مجدد</string>
+    <string name="action_cancel">لغو</string>
+</resources>

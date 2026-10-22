@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_name_en">Inglés</string>
+    <string name="language_name_en_us">Inglés (EE. UU.)</string>
+    <string name="language_name_en_nz">Inglés (NZ)</string>
+    <string name="language_name_ur">Urdu</string>
+    <string name="language_name_zh">Chino</string>
+    <string name="language_name_ar">Árabe</string>
+    <string name="language_name_es">Español</string>
+    <string name="language_restart_title">¿Reiniciar para cambiar el idioma?</string>
+    <string name="action_restart">Reiniciar</string>
+    <string name="action_cancel">Cancelar</string>
+</resources>

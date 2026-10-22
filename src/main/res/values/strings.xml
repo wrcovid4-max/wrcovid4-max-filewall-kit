@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_name_en">English</string>
+    <string name="language_name_en_us">English (US)</string>
+    <string name="language_name_en_nz">English (NZ)</string>
+    <string name="language_name_ur">Urdu</string>
+    <string name="language_name_zh">Chinese</string>
+    <string name="language_name_ar">Arabic</string>
+    <string name="language_name_es">Spanish</string>
+    <string name="language_name_zh_tw">Chinese Traditional</string>
+    <string name="language_name_fa">Persian</string>
+    <string name="language_name_pa">Punjabi</string>
+    <string name="language_name_pa_pk">Punjabi (Pakistan)</string>
+    <string name="language_restart_title">Restart to change language?</string>
+    <string name="action_restart">Restart</string>
+    <string name="action_cancel">Cancel</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_name_en">انگریزی</string>
+    <string name="language_name_ur">اردو</string>
+    <string name="language_restart_title">زبان بدلنے کے لیے ایپ دوبارہ شروع کریں؟</string>
+    <string name="action_restart">دوبارہ شروع کریں</string>
+    <string name="action_cancel">منسوخ</string>
+</resources>

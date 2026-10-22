@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_name_en">英文</string>
+    <string name="language_name_en_us">英語（美國）</string>
+    <string name="language_name_en_nz">英語（紐西蘭）</string>
+    <string name="language_name_ur">烏爾都語</string>
+    <string name="language_name_zh">中文</string>
+    <string name="language_name_ar">阿拉伯語</string>
+    <string name="language_name_es">西班牙語</string>
+    <string name="language_name_zh_tw">繁體中文</string>
+    <string name="language_restart_title">重啟以切換語言？</string>
+    <string name="action_restart">重啟</string>
+    <string name="action_cancel">取消</string>
+</resources>
