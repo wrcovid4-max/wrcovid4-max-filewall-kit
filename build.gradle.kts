@@ -30,3 +30,10 @@ dependencies {
     implementation("androidx.compose.runtime:runtime")
     implementation("androidx.appcompat:appcompat:1.7.0")
 }
+
+// Kotlin and Java must compile to the same JVM target, or Gradle refuses to build.
+tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile>().configureEach {
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+}
